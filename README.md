@@ -7,7 +7,7 @@
 
 ## Approaches:
 
-### Edge Detection Approach:
+### A) Edge Detection Approach:
 
 - **Finger Detection and Cursor Control**: Utilized a webcam to track the finger's position in real-time using OpenCV. Mapped this position to screen coordinates to move the cursor accordingly.
 
