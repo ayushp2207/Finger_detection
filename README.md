@@ -1,4 +1,4 @@
-# dVerse Technologies Internship Assignment
+# Internship Assignment
 
 **Ayush Patel**
 
