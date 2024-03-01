@@ -51,7 +51,7 @@
 - Due to incorrect mapping of the finger's position, the webcam frame is sometimes not so smooth, causing jittery cursor movements.
 - Addressing these issues would likely require incorporating more sophisticated techniques such as machine learning models for more robust hand and finger detection, dynamic adjustment of parameters based on environmental conditions, and algorithms to smooth out cursor movements.
 
-### B) CNN-Based Approach (Idea - Not implemented)::
+### B) CNN-Based Approach (Idea - Not implemented):
 Creating a Convolutional Neural Network (CNN) to segment an image and assign labels to each segment involves several key steps. Here is a 10-point plan to approach this task:
 
 1. **Dataset Preparation**:
