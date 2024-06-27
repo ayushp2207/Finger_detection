@@ -1,4 +1,3 @@
-# Internship Assignment
 
 **Ayush Patel**
 
